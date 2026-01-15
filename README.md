@@ -1,19 +1,10 @@
-# NeuralWorks — Лендинг AI-агентства
+# NeuralWorks
 
-![Preview](https://cdn.poehali.dev/templates/ai-agency-ru/preview.jpg)
+![Preview](https://cdn.poehali.dev/templates/ai-agency-ru/cover.jpg)
 
-Профессиональный лендинг для AI-агентства и портфолио. Тёмная тема, современный дизайн, секции с кейсами и услугами.
+Профессиональный лендинг для AI-агентства с портфолио проектов. Элегантная тёмная тема с акцентными градиентами, секции кейсов клиентов, описание услуг и команды. Создан для презентации технологических решений и привлечения корпоративных заказчиков.
 
-## Quick Start
-
-```bash
-npm install
-npm run dev
 ```
-
-## Tech Stack
-
-- React 18 + Vite
-- Tailwind CSS
-- shadcn/ui
-- Framer Motion
+"category": "agency"
+"tags": ["dark", "modern", "ai", "testimonials"]
+```
